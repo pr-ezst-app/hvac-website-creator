@@ -71,7 +71,7 @@ const testimonials = [
   {
     name: "James Thornton",
     role: "Homeowner",
-    text: "Arctic Comfort installed a complete system in our new build. On time, clean, and the house has never been more comfortable. Absolutely recommend.",
+    text: "SM Climate installed a complete system in our new build. On time, clean, and the house has never been more comfortable. Absolutely recommend.",
     stars: 5,
   },
   {
@@ -153,7 +153,7 @@ export default function Index() {
               <Icon name="Wind" size={16} className="text-white" />
             </div>
             <span className="font-serif text-xl text-[#1a3a5c] leading-none">
-              Arctic<span className="text-[#e8851a]">Comfort</span>
+              SM<span className="text-[#e8851a]">Climate</span>
             </span>
           </a>
           <nav className="hidden lg:flex items-center gap-8">
@@ -319,7 +319,7 @@ export default function Index() {
               Built on Trust,<br />Driven by Quality
             </h2>
             <p className="text-[#555] leading-relaxed mb-5">
-              Arctic Comfort has been delivering premium HVAC solutions since 2008. What started as a two-man residential service has grown into a full-service installation company trusted by homeowners, developers, and facilities managers across the region.
+              SM Climate has been delivering premium HVAC solutions since 2008. What started as a two-man residential service has grown into a full-service installation company trusted by homeowners, developers, and facilities managers across the region.
             </p>
             <p className="text-[#555] leading-relaxed mb-8">
               Every member of our team is NATE-certified and undergoes ongoing training on the latest equipment and installation standards. We don't just install — we engineer comfort.
@@ -511,7 +511,7 @@ export default function Index() {
                 <div className="w-8 h-8 bg-[#1a3a5c] rounded-md flex items-center justify-center">
                   <Icon name="Wind" size={16} className="text-white" />
                 </div>
-                <span className="font-serif text-xl">Arctic<span className="text-[#f5b966]">Comfort</span></span>
+                <span className="font-serif text-xl">SM<span className="text-[#f5b966]">Climate</span></span>
               </div>
               <p className="text-white/60 text-sm leading-relaxed max-w-xs">
                 Professional HVAC installation and service for residential and commercial properties. Licensed, insured, and trusted since 2008.
@@ -537,7 +537,7 @@ export default function Index() {
             </div>
           </div>
           <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-            <p className="text-xs text-white/40">© 2026 Arctic Comfort HVAC. All rights reserved.</p>
+            <p className="text-xs text-white/40">© 2026 SM Climate HVAC. All rights reserved.</p>
             <p className="text-xs text-white/30">Licensed · Bonded · Insured</p>
           </div>
         </div>
