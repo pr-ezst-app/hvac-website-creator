@@ -133,8 +133,8 @@ const blogPosts = [
 ];
 
 const stats = [
-  { value: "3,100+", label: "Gas Jobs Completed" },
-  { value: "18 yrs", label: "In Business" },
+  { value: "500+", label: "Gas Jobs Completed" },
+  { value: "5 yrs", label: "In Business" },
   { value: "98%", label: "Customer Satisfaction" },
   { value: "24/7", label: "Emergency Call-Out" },
 ];
