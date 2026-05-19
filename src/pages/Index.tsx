@@ -319,7 +319,7 @@ export default function Index() {
               Safety First,<br />Every Single Job
             </h2>
             <p className="text-[#555] leading-relaxed mb-5">
-              SM Climate has been delivering professional gas services since 2008. From a single-engineer operation, we've grown into a trusted gas company serving homeowners, landlords, and commercial clients across the region.
+              SM Climate has been delivering professional gas services since 2028. From a single-engineer operation, we've grown into a trusted gas company serving homeowners, landlords, and commercial clients across the GTA.
             </p>
             <p className="text-[#555] leading-relaxed mb-8">
               Every one of our engineers is Gas Safe registered and undergoes regular training. We don't cut corners — gas safety is not something we compromise on.
